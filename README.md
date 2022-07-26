@@ -11,4 +11,6 @@ Bitalino is a breakout board with several pheripheral sensors designed to track 
 
 4. an ECG (electrocardiogram) to track heart rate, monitor stress etc
 
-5. an accelerometer to track limb movements
+5. An accelerometer to track limb movements
+
+Users can communicate with the onboard microcontroller using bluetooth (slave) and a software called "Opensignals".
